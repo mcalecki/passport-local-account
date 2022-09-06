@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-local.git"
+    "url": "https://github.com/mcalecki/passport-local-account.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-local/issues"
+    "url": "https://github.com/mcalecki/passport-local-account/issues"
   },
   "funding": {
     "type": "github",
